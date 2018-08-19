@@ -3,7 +3,7 @@
 - [x] 高数复习
 - [ ] 英语复习
 
-:kissing_smiling_eyes:
+:kissing_smiling_eyes: https://gitmoji.carloscuesta.me/
 
 | qweq | qwe  | qweq |
 | ---- | ---- | ---- |
